@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+	"name": "unl0gin",
+	"description": "By pressing the button, you will be unl0gged in to the given page. That means, it will hide the login-popup so you can view the images or whatever without the need to register.",
+	"version": "0.0.1",
+	
+	"browser_action": {
+		"default_icon": "unl0gin_icon.png",
+		"default_popup": "popup.html"
+	},
+	"permissions": [
+		"activeTab",
+		"https://ajax.googleapis.com/"
+	]
+}
