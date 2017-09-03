@@ -9,17 +9,17 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="19"
-   height="19"
-   viewBox="0 0 5.0270833 5.0270835"
+   width="96"
+   height="96"
+   viewBox="0 0 25.4 25.4"
    version="1.1"
    id="svg8"
-   shape-rendering="crispEdges"
    inkscape:version="0.92.1 r15371"
    sodipodi:docname="unl0gin_icon.svg"
-   inkscape:export-filename="C:\Users\Ben0bi\Desktop\unl0gin\unl0gin_icon.png"
-   inkscape:export-xdpi="93.954605"
-   inkscape:export-ydpi="93.954605">
+   inkscape:export-filename="C:\Users\Ben0bi\Desktop\unl0gin\firefox_extension\icons\unl0gin-32.png"
+   inkscape:export-xdpi="32"
+   inkscape:export-ydpi="32"
+   style="shape-rendering:crispEdges">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.728563"
-     inkscape:cx="19.272045"
-     inkscape:cy="22.374498"
+     inkscape:zoom="3.7010287"
+     inkscape:cx="29.208406"
+     inkscape:cy="66.551918"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -59,10 +59,10 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-291.9729)">
+     transform="translate(0,-271.59998)">
     <g
        id="g4544"
-       transform="matrix(0.02996341,0,0,0.02996341,-0.63261638,290.03688)">
+       transform="matrix(0.1588548,0,0,0.1588548,-3.979754,260.71004)">
       <g
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"

@@ -41,10 +41,14 @@ document.addEventListener('DOMContentLoaded', function() {
  		
 		var cso = new Object();
 		cso= {
-			'file': 'pinterest_injector.js', 
+			'code': 'unl0gin_siringe();', 
 			'allFrames': true
 		};
 		
-		chrome.tabs.executeScript(null, cso, function(results){renderStatus(results);});
+		chrome.tabs.executeScript(null, cso, function(results)
+		{
+			renderStatus(results);
+			window.close();
+		});
 	});
 });
