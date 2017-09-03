@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "unl0gin",
 	"description": "By pressing the button, you will be unl0gged in to the given page. That means, it will hide the login-popup so you can view the images or whatever without the need to register.",
-	"version": "0.1.1",
+	"version": "0.1.2",
 
   "icons": {
     "48": "icons/unl0gin-48.png",

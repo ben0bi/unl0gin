@@ -26,9 +26,15 @@ Working with:
 This script does not check for anything at all, 
 it just overwrites the given values.
 
-New 0.0.1 -> 0.1.1
+New 
+0.1.1 -> 0.1.2
++ Removed some overhead.
+
+0.0.1 -> 0.1.1
 + Works now with FireFox.
-+ Url Pattern in manifest.json can call different js files. They just have to have an unl0gin_siringe()-function.
++ Url Pattern in manifest.json can call different js files. 
+    They just have to have an unl0gin_siringe(tabs)-function.
+
 + No popup anymore.
 
 
