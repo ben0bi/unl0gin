@@ -8,7 +8,7 @@ for (var i = 0; i < myElements.length; i++)
 	myElements[i].parentElement.style.display = "none";	
 };
 
-// re enable scrolling.
+// re-enable scrolling.
 // it may be the thing with the id desktopWrapper.
 var desk = document.getElementById('desktopWrapper');
 if(desk)
@@ -24,4 +24,5 @@ for (var i = 0; i < myElements.length; i++)
 	child2.style.position = "absolute";
 };
 
+// "return" this text to the chrome plugin.
 "Unl0gged you in."
