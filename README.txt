@@ -1,5 +1,5 @@
 unl0gin
-a chrome extension
+a web browser extension (Chrome/FireFox)
 
 >_ amarov
 
