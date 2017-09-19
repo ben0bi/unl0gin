@@ -4,7 +4,7 @@ a web browser extension (Chrome/FireFox)
 Hide the login window on several sites.
 	(click on the green button beneath the adress bar to hide the login popup.)
 
-When you like what I've done here, you can give me some credit by giving me some credit.
+When you like what I've done here, you can give me some credit by giving me some credits.
 Just send me all - or at least some - of your Bitcoins (BTC) to this adress:
 
 1Jvn3ETyYbvLX2u4DndEFuytirx1DAb16K
