@@ -29,6 +29,11 @@
 	{
 		"matches": ["*://*.pinterest.com/*"],
 		"js": ["pinterest_injector.js"]
+	},
+	{
+		"matches": ["*://*.facebook.com/*"],
+		"js": ["facebook_injector.js"]
 	}
+
   ]
 }

@@ -29,6 +29,7 @@ FireFox:
 	load the manifest.json
 	
 Working with:
++ facebook.com (hide chat window and chat button)
 + pinterest.com
 
 This script does not check for anything at all, 
